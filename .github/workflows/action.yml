@@ -23,7 +23,7 @@ jobs:
       - name: Commit map
         run: |
           git config --local user.email "ipsitamishra16893@gmail.com"
-            git config --local user.name "GitHub Action Committer"
+            git config --local user.name "Ipsita Mishra"
             git add .
             git commit -m "Updated map"
       - name: Push map to master
