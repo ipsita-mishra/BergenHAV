@@ -1,4 +1,4 @@
-# HousingAnalysis
+# BergenHAV
 Housing proximity analysis visualizer in Bergen, Norway for the regular pedestrian.
 
 ## Description
