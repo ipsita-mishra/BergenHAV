@@ -24,6 +24,6 @@ CREATE TABLE property_info (  address text, description text,  type text, link t
 In order to run the application, see below :
 
 1. Install python 3 along with pip
-2. Run the following command : ``` pip install requirements.txt```
+2. Run the following command : ``` pip install -r requirements.txt```
 3. Run the following command : ``` python3 start.py```
 4. Wait till the program has finished running and open the newly generated file called ``` map.html ``` to view the analysed information
