@@ -4,7 +4,7 @@ Housing proximity analysis visualizer in Bergen, Norway for the regular pedestri
 ## Description
 The everyday pedestrian needs 2 things within walking distance (1 km) of their house i.e. food and public transport. This application collects publicly available information regarding housing, grocery stores and transportaion relevant in Bergen, Norway. The data is then stored in a database and retrieved to be plotted on a map and displayed. The properties available for sale that have either a grocery store or a transport available within 1 km (walkable distance) radius are shown on the map.
 
-Available to view at : [BergenHAV](https://ipsitamishra16893.github.io/BergenHAV/index.html)
+Available to view at : [BergenHAV](https://ipsita-mishra.github.io/BergenHAV/)
 
 ## Database
 The database in use is Sqlite3. Schema for it is mentioned below :
